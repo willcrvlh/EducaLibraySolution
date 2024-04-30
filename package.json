@@ -14,6 +14,7 @@
     "API",
     "Books"
   ],
+  "type": "module",
   "author": "Willian Carvalho",
   "license": "ISC",
   "bugs": {
