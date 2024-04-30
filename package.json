@@ -1,0 +1,23 @@
+{
+  "name": "educalibraysolutionapi",
+  "version": "1.0.0",
+  "description": "API de materiais didáticos a serem gerenciados por uma rede de ensino",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev, start, api"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willcrvlh/EducaLibraySolution.git"
+  },
+  "keywords": [
+    "API",
+    "Books"
+  ],
+  "author": "Willian Carvalho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willcrvlh/EducaLibraySolution/issues"
+  },
+  "homepage": "https://github.com/willcrvlh/EducaLibraySolution#readme"
+}
