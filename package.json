@@ -4,7 +4,9 @@
   "description": "API de materiais didáticos a serem gerenciados por uma rede de ensino",
   "main": "index.js",
   "scripts": {
-    "test": "dev, start, api"
+    "test": "dev, start, api",
+    "start": "node ./src/app.js"
+
   },
   "repository": {
     "type": "git",
